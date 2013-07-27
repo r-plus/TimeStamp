@@ -1,0 +1,5 @@
+{
+    title = "Add time stamp";
+    description = "Add time stamp to calendar";
+    "compatible-modes" = ("springboard", "application", "lockscreen");
+}
